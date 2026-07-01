@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Benjamin
-- 👀 I’m interested in learning how to code...
-- 🌱 I’m currently learning python, C++, java and HTML, CSS, and Javascript...
-- 📫 How to reach me https://www.instagram.com/benjaminikirigbe/...
+# Benjamin Ikirigbe
+
+Python developer with experience in Django and MySQL backend development.
+Currently building projects and exploring cloud infrastructure on AWS.
+
+📫 benjaminikirigbe@gmail.com
+🔗 www.linkedin.com/in/benjamin-ikirigbe-the-top-ai-strategy-expert
 
 <!---
 dnachalah/dnachalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
