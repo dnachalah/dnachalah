@@ -1,10 +1,10 @@
-...Benjamin Ikirigbe
+# Benjamin Ikirigbe
 
-...Python developer with experience in Django and MySQL backend development.
+Python developer with experience in Django and MySQL backend development.
 Currently building projects and exploring cloud infrastructure on AWS.
 
-...📫 benjaminikirigbe@gmail.com
-...🔗 www.linkedin.com/in/benjamin-ikirigbe-the-top-ai-strategy-expert
+📫 benjaminikirigbe@gmail.com
+🔗 linkedin.com/in/benjamin-ikirigbe-the-top-ai-strat
 
 <!---
 dnachalah/dnachalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
